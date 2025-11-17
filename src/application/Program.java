@@ -1,8 +1,5 @@
 package application;
 
-import java.awt.Rectangle;
-import java.awt.Rectangle;
-
 import javax.swing.JOptionPane;
 
 public class Program {
